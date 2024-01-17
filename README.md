@@ -1,6 +1,6 @@
 # EN2031-Computer-Organization-and-Design
 
-## This includes the following activities related to this module.
+## This repo includes the following activities related to this module.
 * Motherboard_Dissection
 * ProcessorDissection
 * Processor Design
