@@ -1,8 +1,8 @@
 # EN2031-Computer-Organization-and-Design
 
 ## This repo includes the following activities related to this module.
-* Motherboard_Dissection
-* ProcessorDissection
+* Motherboard Dissection
+* Processor Dissection
 * Processor Design
 * 3 Article Reviews
 * Research Paper Review
